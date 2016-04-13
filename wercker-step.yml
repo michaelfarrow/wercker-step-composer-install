@@ -1,0 +1,10 @@
+name: composer-install
+version: 0.1.0
+description: Install Composer dependencies.
+keywords:
+  - php
+  - composer
+properties:
+  user:
+    type: string
+    required: false
